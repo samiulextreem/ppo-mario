@@ -1,2 +1,3 @@
 https://dl.acm.org/doi/abs/10.1145/3319619.3321894 - google deepmind
 https://ieeexplore.ieee.org/abstract/document/9231618 - ppo-cma
+https://www.sciencedirect.com/science/article/pii/S2405959520300746 - action mask in proximal policy optimization
